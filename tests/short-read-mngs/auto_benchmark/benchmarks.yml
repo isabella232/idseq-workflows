@@ -13,7 +13,7 @@ settings:
     host_filter.host_genome: human
     host_filter.adapter_fasta: https://raw.githubusercontent.com/broadinstitute/viral-pipelines/master/test/input/clipDb.fasta
     host_filter.max_input_fragments: 75000000
-    host_filter.max_subsample_fragments: 98765
+    host_filter.max_subsample_fragments: 48000
 
 databases:
   viral:
