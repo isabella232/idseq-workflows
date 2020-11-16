@@ -24,4 +24,4 @@ make test-short-read-mngs
 
 ## Automatic benchmarking suite for short-read-mngs
 
-See [auto_benchmark/README.md](auto_benchmark/README.md)
+See [short-read-mngs/auto_benchmark/README.md](short-read-mngs/auto_benchmark/README.md)
