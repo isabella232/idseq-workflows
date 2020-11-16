@@ -21,3 +21,7 @@ cd idseq-workflows
 docker build -t idseq-short-read-mngs short-read-mngs
 make test-short-read-mngs
 ```
+
+## Automatic benchmarking suite for short-read-mngs
+
+See [auto_benchmark/README.md](auto_benchmark/README.md)
